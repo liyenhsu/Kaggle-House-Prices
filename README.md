@@ -7,8 +7,7 @@ competition challenges the data science community to predict the final price of 
 ### Data
 train.csv: 1460 houses with 81 attributes, including the labels (sale prices)<br>
 test.csv: 1459 houses with 80 attributes<br>
-data_description.txt - full description of each column, originally prepared by Dean De Cock but lightly 
-edited to match the column names used here
+data_description.txt: full description of each column of the csv files
 
 ### Results
 Feature engineering and a solution using Kernel Ridge regression are shown in [Kernel_Ridge.ipynb](Kernel_Ridge.ipynb).
@@ -20,7 +19,7 @@ Feature engineering and a solution using Kernel Ridge regression are shown in [K
 - ``scipy``
 - ``seaborn``
 - ``matlibplot``
-
+- ``XGBoost``
 
 ### Reference
 [House Prices: Advanced Regression Techniques](https://www.kaggle.com/c/house-prices-advanced-regression-techniques)
