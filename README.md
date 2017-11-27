@@ -18,7 +18,7 @@ Feature engineering and a solution using Kernel Ridge regression are shown in [K
 - ``scikit-learn``
 - ``scipy``
 - ``seaborn``
-- ``matlibplot``
+- ``matplotlib``
 - ``XGBoost``
 
 ### Reference
